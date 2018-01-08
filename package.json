@@ -11,8 +11,10 @@
     "dist": "yarn clean && yarn build"
   },
   "dependencies": {
+    "autoprefixer": "^7.2.4",
     "babel-preset-env": "^1.6.1",
     "node-sass": "^4.7.2",
+    "postcss-modules": "^1.1.0",
     "posthtml-img-autosize": "^0.1.1",
     "rimraf": "^2.6.2"
   }
