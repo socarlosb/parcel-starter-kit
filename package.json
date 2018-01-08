@@ -1,0 +1,19 @@
+{
+  "name": "to-be-done",
+  "author": "Carlos @socarlosb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rimraf dist",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "dist": "yarn clean && yarn build"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "node-sass": "^4.7.2",
+    "posthtml-img-autosize": "^0.1.1",
+    "rimraf": "^2.6.2"
+  }
+}
