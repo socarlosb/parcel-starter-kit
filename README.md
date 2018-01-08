@@ -4,10 +4,9 @@
 - Run `yarn global add parcel-bundler` to install Parceljs globaly
 
 ## Preparation
-- clone this repo by running `git clone https://github.com/socarlosb/parcel-starter-kit.git` in your command line
-- open the folder `cd parcel-starter-kit`
+- clone this repo by running `git clone https://github.com/socarlosb/parcel-starter-kit.git 'your-project'` in your command line
+- open the folder `cd 'your-project'`
 - then run `yarn install`
-- rename the project folder
 
 ## Commands
 - `yarn start` - start your dev environment
