@@ -4,12 +4,14 @@
 - Run `yarn global add parcel-bundler` to install Parceljs globaly
 
 ## Preparation
-- clone this repo by running `git clone xxx` in your command line
-- open the folder `cd xxx`
+- clone this repo by running `git clone https://github.com/socarlosb/parcel-starter-kit.git` in your command line
+- open the folder `cd parcel-starter-kit`
 - then run `yarn install`
+- rename the project folder
 
 ## Commands
-
+- `yarn start` - start your dev environment
+- `yarn dist` - build your app in a clean *dist* folder
 
 ## Contains
 - [Babel](https://babeljs.io/) - compiles javascript ES6 to javascript that even *IE* can understand
