@@ -1,6 +1,6 @@
 ## Requisits
 - Install [nodejs](https://nodejs.org/en/)
-- Install [Yarn](https://yarnpkg.com/lang/en/) - it's faster then *NPM*
+- Install [Yarn](https://yarnpkg.com/lang/en/)
 - Run `yarn global add parcel-bundler` to install Parceljs globaly
 
 ## Preparation
