@@ -1,9 +1,16 @@
 {
   "name": "parcel-starter-kit",
   "author": "Carlos Barbosa @socarlosb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
+  "keywords": [
+    "parceljs",
+    "es6",
+    "eslint",
+    "jest",
+    "babel"
+  ],
   "scripts": {
     "clean-dist": "rimraf dist",
     "clean-coverage": "rimraf scr/tests-reports",
