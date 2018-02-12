@@ -1,0 +1,2 @@
+src/tests/*.js
+dist/**/*.js
