@@ -14,7 +14,7 @@
   "scripts": {
     "clean-dist": "rimraf dist",
     "clean-coverage": "rimraf scr/tests-reports",
-    "start": "parcel src/index.html --public-url ./",
+    "start": "parcel src/index.html",
     "lint": "eslint src/scripts/*",
     "build": "parcel build src/index.html --public-url ./ --out-dir dist/output",
     "dist": "npm run clean-dist && npm run build",
